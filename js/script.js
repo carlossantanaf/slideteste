@@ -2,5 +2,6 @@ import Slide from './slide.js';
 
 const slide = new Slide('.slide', '.container');
 slide.init();
-slide.changeSlide(4)
+slide.changeSlide(0)
+
 
